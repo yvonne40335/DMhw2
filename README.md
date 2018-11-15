@@ -1,12 +1,11 @@
-# 資料探勘 作業一    
+# 資料探勘 作業二    
 > 資訊所 P76074509 辜玉雯
 
 ### 演算法
-- apriori.py -> 實作Apriori演算法
-- fp-growth.py -> 實作FP-growth演算法
+- XXX.py -> 
+- XXX.py -> 實作XXX演算法
 ### Dataset
-- data.ntrans_1.nitems_0.1.txt -> IBM Generator產生主要的測試dataset
-- Online Retail.txt -> 為Kaggle抓下來的dataset(處理成符合格式的資料)
-- dataset.zip -> 包含Report中所有實驗中用到的dataset
+- dataset1.csv -> 不包含"貸款是否超過月薪四成"這個feature
+- dataset2.csv -> 進行前處理，包含"貸款是否超過月薪四成"這個複合feature
 ### Report
 - Report.pdf -> 包含本次作業環境、實驗等報告文件
